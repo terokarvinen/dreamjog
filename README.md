@@ -16,3 +16,5 @@ Tero was here.
 Foo bar
 
 Tero was here again
+
+Demo commit
