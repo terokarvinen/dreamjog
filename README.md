@@ -11,9 +11,8 @@ asdf
     $ ls
     foo bar
 
-    $ foo
-          dfadfasdf
-
 Tero was here. 
 
 Foo bar
+
+Tero was here again
